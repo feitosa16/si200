@@ -1,6 +1,6 @@
 # SI200
 
-<img src = https://img.shields.io/badge/Status-Em_andamento-yellow> 
+<img src = https://img.shields.io/badge/Status-Concluido-green> 
 
 _Repositorio destinado aos códigos de estudo e prática de da disciplina de algoritmos e programação de computadores II lecionada na Faculdade de Tecnologia da UNICAMP._
 
