@@ -2,7 +2,7 @@
 
 <img src = https://img.shields.io/badge/Status-Concluido-green> 
 
-_Repositorio destinado aos códigos de estudo e prática de da disciplina de algoritmos e programação de computadores II lecionada na Faculdade de Tecnologia da UNICAMP._
+_Repositorio destinado aos códigos de estudo e prática de da disciplina de algoritmos e programação de computadores II lecionada na Faculdade de Tecnologia da UNICAMP, no 2º Semestre de 2023._
 
 ### Nesse momento, para visualizar esse projeto em sua máquina:
 1. Obtenha um leitor de código compativel com a linguagem C [Ex.: Visual Studio Code](https://code.visualstudio.com)
